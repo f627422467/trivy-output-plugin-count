@@ -1,4 +1,4 @@
-module github.com/aquasecurity/trivy-output-plugin-count
+module github.com/f627422467/trivy-output-plugin-count
 
 go 1.21.4
 
